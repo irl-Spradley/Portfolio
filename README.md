@@ -1,5 +1,5 @@
 # Aloha!
-My name is Alejandro, and I do CADD Support and software deployment for a Archecture and Engineering firm in New Mexico, Albuquerque. I love to deploy painfully complicated CADD software to my users. I also love the method of deploying software with everything that the user needs to start the software and knock out production seamlissly without taking over their machines.
+My name is Alejandro, I'm a Design Systems Integrator and I love to create software deployments. I love to deploy painfully complicated CADD software to my users. I also love the method of deploying software with everything that the user needs to start the software and knock out production seamlissly without taking over their machines.
 
 Here I would showcase you some of my work that I've created to help deploy software that will be easily manageible if updates, licenses, and permissions become an issue.
 
